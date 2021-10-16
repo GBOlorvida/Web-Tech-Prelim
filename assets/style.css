@@ -1,0 +1,91 @@
+h1 {
+  color: #cc000c;
+  font-family: "Arial Narrow";
+  font-weight: bold;
+}
+
+nav {
+  color: maroon;
+  font-family: "Arial Narrow";
+  font-weight: bold;
+}
+
+p {
+  color: maroon;
+  font-family: "Arial Narrow";
+  font-weight: bold;
+}
+
+table,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-family: "Arial Narrow";
+  border-style: solid;
+  vertical-align: top;
+  font-weight: bold;
+}
+
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-family: "Arial Narrow";
+  border-style: solid;
+  vertical-align: top;
+  background-color: #d9ead3;
+  height: 6px;
+  width: 150px;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  font-family: "Arial Narrow";
+  color: black;
+  font-weight: bold;
+}
+
+.redfont {
+  color: red;
+  font-weight: bold;
+}
+
+.ucl-1 {
+  color: #24505c;
+  font-weight: bold;
+}
+
+.blue {
+  color: blue;
+  font-weight: bold;
+}
+
+.green {
+  color: green;
+  font-weight: bold;
+}
+
+.brown {
+  color: brown;
+  font-weight: bold;
+}
+
+.orange {
+  color: orangered;
+  font-weight: bold;
+}
+
+.pink {
+  color: palevioletred;
+  font-weight: bold;
+}
+
+.yellow {
+  color: yellow;
+  font-weight: bold;
+}
+
+ul,
+ol {
+  font-weight: bold;
+}
